@@ -1,5 +1,5 @@
 <h1>Обо мне</h1>
-<img class="photo" src="/static/img/pon.gpg" alt="sol" width="200" />
+<img class="photo" src="/static/img/pon.jpg" alt="sol" width="200" />
 <p>
 	Привет! Меня зовут Тимофей Халиков, и я рад приветствовать вас на своей
 	странице. Я живу в Электростали, Россия, и я старшеклассник в местной школе.
